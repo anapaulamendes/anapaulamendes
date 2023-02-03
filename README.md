@@ -8,6 +8,8 @@
 
 <br/>
 
+<!---
 [![Ana Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anapaulamendes&show_icons=true)](https://github.com/anapaulamendes)
+-->
 
 <a href="https://www.linkedin.com/in/anapauladsmendes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Paula%20Mendes-purple?style=flat-square&logo=linkedin"></a>
