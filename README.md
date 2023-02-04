@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 I'm working as a Senior Software Engineer @jusbrasil | Developer Consultant @thoughtworksbr (before)
+- 👩‍💻 I'm working as a Senior Software Engineer Jusbrasil | Developer Consultant Thoughtworks (before)
 - 📚 I'm a Master's Degree student in Artificial Intelligence at UFPI
 - 📚 Graduated in the Bachelor's Degree in Computer Science at UFPI
 - 📚 I have a technical course in Software Development at IFPI
