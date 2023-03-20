@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩‍💻 I'm working as a Senior Software Engineer at Jusbrasil | Developer Consultant at Thoughtworks (before)
-- 📚 I'm a Master's Degree student in Artificial Intelligence at UFPI
+- 📚 I'm a Master's Degree student in Intelligent Computing at UFPI
 - 📚 Graduated in the Bachelor's Degree in Computer Science at UFPI
 - 📚 I have a technical course in Software Development at IFPI
 - 💙 I like Python, Ruby, JavaScript, Agile Methodologies, Software Architecture and Artificial Intelligence
