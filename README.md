@@ -4,9 +4,10 @@
 - 📚 I'm a Master's Degree student in Intelligent Computing at UFPI
 - 📚 Graduated in the Bachelor's Degree in Computer Science at UFPI
 - 📚 I have a technical course in Software Development at IFPI
-- 💙 I like Python, Ruby, JavaScript, Agile Methodologies, Software Architecture and Artificial Intelligence
+- 💙 I like Backend, Agile Methodologies, Software Architecture and Artificial Intelligence
+- 👩🏻‍💻 I worked with Ruby and Javascript before, I work with Python always and now I'm learning Go and Scala
+- ⚡ Fun fact: I'm type 1 diabetic, poledancer and I'm learning roller skates
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm type 1 diabetic, poledancer and crossfitter
 
 <br/>
 
