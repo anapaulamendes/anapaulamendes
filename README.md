@@ -5,7 +5,7 @@
 - 📚 Graduated in the Bachelor's Degree in Computer Science at UFPI
 - 📚 I have a technical course in Software Development at IFPI
 - 💙 I like Backend, Agile Methodologies, Software Architecture and Artificial Intelligence
-- 👩🏻‍💻 I worked with Ruby and Javascript before, I work with Python always 🐍 and now I'm learning Go and Scala
+- 👩🏻‍💻 I worked with Ruby and Javascript before, I work with Python always 🐍 and now I'm working with Go and Scala too
 - ⚡ Fun fact: I'm type 1 diabetic, poledancer and I'm learning roller skates
 - 😄 Pronouns: she/her
 
