@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 👩‍💻 I'm working as a Sr Software Engineer at Jusbrasil | Developer Consultant at Thoughtworks (before)
+- 👩‍💻 I'm working as a data-oriented Senior Software Engineer
+- 📚 I'm pursuing an MBA in Full Cycle Architecture at @codeedu
 - 📚 Graduated in the Bachelor's Degree in Computer Science at UFPI
 - 📚 I have a technical course in Software Development at IFPI
-- 💙 I like Backend, Agile Methodologies, Software Architecture and Artificial Intelligence
-- 👩🏻‍💻 I worked with Ruby and Javascript before, I work with Python always 🐍 and now I'm working with Go and Scala too
+- 👩🏻‍💻 I've worked with Go and Scala, I always use Python 🐍, and I'm now also working with Ruby and JavaScript
 - ⚡ Fun fact: I'm type 1 diabetic, poledancer and I'm learning roller skates
 - 😄 Pronouns: she/her
 
