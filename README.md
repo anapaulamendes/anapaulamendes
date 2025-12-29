@@ -1,6 +1,6 @@
 ### 🦋 Hello! 🦋
 
-- 👩‍💻 I'm working as a data-oriented Senior Software Engineer
+- 👩‍💻 I'm working as a data-driven Senior Software Engineer
 - 📚 I'm pursuing an MBA in Full Cycle Architecture at @codeedu
 - 📚 Graduated in the Bachelor's Degree in Computer Science at UFPI
 - 📚 I have a technical course in Software Development at IFPI
