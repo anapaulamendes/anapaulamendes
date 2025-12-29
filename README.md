@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🦋 Hello! 🦋
 
 - 👩‍💻 I'm working as a data-oriented Senior Software Engineer
 - 📚 I'm pursuing an MBA in Full Cycle Architecture at @codeedu
